@@ -1,2 +1,2 @@
 # libro della biblioteca
-\n## Descrizione\n\nGithub esercitazioni da libro biblioteca
+## Github esercitazioni da libro biblioteca
