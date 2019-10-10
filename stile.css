@@ -4,10 +4,12 @@ body{
 
 p{
   font-family: serif;
-  color: #000;
+  color: #c00;
+  font-size: 25px;
 }
 
 div{
 	background:#fc6;
 	margin:15px;
+	width:50%;
 }
