@@ -1,8 +1,13 @@
 body{
-  background-color: #fc6;
+  background-color: #f1f2f5;
 }
 
 p{
   font-family: serif;
-  color: red;
+  color: #000;
+}
+
+div{
+	background:#fc6;
+	margin:15px;
 }
